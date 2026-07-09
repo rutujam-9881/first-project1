@@ -1,8 +1,8 @@
 # first-project1
 Name:Rutuja Mule
-##About
+## About
 This is my first repository
-##skills
+## skills
 Excel
 PowerBI
 SQL
