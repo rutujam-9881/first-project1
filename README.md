@@ -1,2 +1,10 @@
 # first-project1
-my first github Repository
+Name:Rutuja Mule
+##About
+This is my first repository
+##skills
+Excel
+PowerBI
+SQL
+Python
+Thank you!!
